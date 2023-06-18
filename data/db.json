@@ -1,0 +1,64 @@
+{
+	"contents": [
+		{
+			"id": 1,
+			"title": "Old Town Jakarta ✨🏰",
+			"author": "Nova Rosa",
+			"location": "Kota Tua, Jakarta, Indonesia",
+			"desc": "Explore the historic district of Old Town Jakarta with its colonial buildings and rich cultural heritage.",
+			"review": "120",
+			"rate": "4.5",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Fatahillah.jpg",
+			"image_2": "https://asset.kompas.com/crops/NuZEgBV9OdWNp_Q6RhEQKaA277A=/0x0:1280x853/750x500/data/photo/2022/06/09/62a1f25e9f1e3.jpeg",
+			"image_3": "https://static.cdntap.com/tap-assets-prod/wp-content/uploads/sites/24/2022/04/KotaTua_Feature.jpg"
+		},
+		{
+			"id": 2,
+			"title": "National Monument (Monas) 🗼🌆",
+			"author": "Tazkiya Mujahid",
+			"location": "Central Jakarta, Indonesia",
+			"desc": "Visit the iconic National Monument (Monas) and enjoy panoramic views of the city from the observation deck.",
+			"review": "85",
+			"rate": "4.2",
+			"image": "https://awsimages.detik.net.id/community/media/visual/2021/12/31/monas-tahun-baru-buka-atau-tutup-ini-jawabannya_169.jpeg?w=1200",
+			"image_2": "https://kcic.co.id/lkapp/wp-content/uploads/2021/07/Monas.jpg",
+			"image_3": "https://pict.sindonews.net/webp/480/pena/news/2022/06/19/171/802395/2-tahun-ditutup-begini-penampakan-kawasan-monas-setelah-dibuka-cpy.webp"
+		},
+		{
+			"id": 3,
+			"title": "Ancol Dreamland 🎡🌊",
+			"author": "Tazkiya Mujahid",
+			"location": "Ancol, North Jakarta, Indonesia",
+			"desc": "Experience thrilling rides, waterparks, and recreational activities at Ancol Dreamland, a popular entertainment complex.",
+			"review": "220",
+			"rate": "4.8",
+			"image": "https://www.ancol.com/blog/wp-content/uploads/2022/02/tempat-wisata-di-jakarta-hits-murah.jpg",
+			"image_2": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2001186750067/Dunia-Fantasi-%2528Dufan%2529-Ancol-Tickets-3dc2631e-ec7b-499e-bf27-2c7228a0caa7.jpeg?tr=q-60,c-at_max,w-1280,h-720&_src=imagekit",
+			"image_3": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/12/14/d51b087c-0d57-409c-af21-480a5a429cbc-1639490594644-ad2647616fb079895bd280202c75a370.jpg"
+		},
+		{
+			"id": 4,
+			"title": "Taman Mini Indonesia Indah 🏞️🎭",
+			"author": "Nova Rosa",
+			"location": "East Jakarta, Indonesia",
+			"desc": "Immerse yourself in the diverse Indonesian culture and traditions at Taman Mini Indonesia Indah.",
+			"review": "150",
+			"rate": "4.6",
+			"image": "https://www.indonesia.travel/content/dam/indtravelrevamp/en/destinations/java/dki-jakarta/jakarta/taman-mini-indonesia-indah/c149dd17e21e4007ce9046a0ba9ec7abca2c40c8-a25f0.jpg",
+			"image_2": "https://thetravelauthor.com/wp-content/uploads/2021/11/TamanMini-2.jpg",
+			"image_3": "https://kcic.co.id/lkapp/wp-content/uploads/2021/06/Keong-Emas-TMII.jpg"
+		},
+		{
+			"id": 5,
+			"title": "Ragunan Zoo 🐅🌳",
+			"author": "Tazkiya Mujahid",
+			"location": "South Jakarta, Indonesia",
+			"desc": "Discover a wide range of animal species and enjoy a day surrounded by nature at Ragunan Zoo.",
+			"review": "95",
+			"rate": "4.3",
+			"image": "https://i0.wp.com/kelloggsnyc.com/wp-content/uploads/2020/05/ragunan.jpg",
+			"image_2": "https://asset.kompas.com/crops/Ece4Wq0TPS1MBRXEGmyxEQzUOk0=/0x0:0x0/750x500/data/photo/2022/05/03/6270d45ecf3ee.jpeg",
+			"image_3": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/jawapos/2022/05/Kebun-Binatang-Ragunan-Di-Padati-Pengunjung-Hari-Kedua-Lebaran-Hendra-Eka-5-.jpg"
+		}
+	]
+}
